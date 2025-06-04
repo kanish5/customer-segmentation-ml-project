@@ -60,16 +60,6 @@ customer-segmentation/
 
 ---
 
-## 📸 Visual Samples
-
-### 2D Cluster Plot  
-![2D Cluster Plot](images/2d_clusters.png)
-
-### Elbow Method  
-![Elbow Method](images/elbow_method.png)
-
----
-
 ## 📦 How to Run
 
 1. Upload the dataset (`customers.csv`) to your project
